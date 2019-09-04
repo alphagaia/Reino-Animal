@@ -1,0 +1,7 @@
+C:\Users\marco\OneDrive\Documentos\Dev\Playground\C#\ReinoAnimal\ReinoAnimal\obj\Debug\ReinoAnimal.csprojAssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\Dev\Playground\C#\ReinoAnimal\ReinoAnimal\obj\Debug\ReinoAnimal.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\Dev\Playground\C#\ReinoAnimal\ReinoAnimal\bin\Debug\ReinoAnimal.exe.config
+C:\Users\marco\OneDrive\Documentos\Dev\Playground\C#\ReinoAnimal\ReinoAnimal\bin\Debug\ReinoAnimal.exe
+C:\Users\marco\OneDrive\Documentos\Dev\Playground\C#\ReinoAnimal\ReinoAnimal\bin\Debug\ReinoAnimal.pdb
+C:\Users\marco\OneDrive\Documentos\Dev\Playground\C#\ReinoAnimal\ReinoAnimal\obj\Debug\ReinoAnimal.exe
+C:\Users\marco\OneDrive\Documentos\Dev\Playground\C#\ReinoAnimal\ReinoAnimal\obj\Debug\ReinoAnimal.pdb
